@@ -1,0 +1,12 @@
+#!/usr/bin/python -OO
+# -*- coding: UTF-8 -*-
+
+# URL сервера kallitha-api
+kali_url = "kali-api.domain.ru:"
+# URL сервера redmine
+redmine_url = 'http://our-redmine.domain.ru'
+# ИД проекта в редмайн
+redmine_project_id = 'pull_request-o'
+# логин и пароль redmine с правами на чтение проекта консолидация
+usr = 'kallithea-hook'
+passw = 'xxyyzz'
